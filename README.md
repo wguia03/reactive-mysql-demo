@@ -1,4 +1,4 @@
-# Spring WebFlux - Demo
+# Spring WebFlux & MySQL - Demo
 
 - Implementación de un microservicio reactivo de productos
 - Conexión a una base de datos MySQL mediante R2DBC
